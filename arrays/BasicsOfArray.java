@@ -18,5 +18,7 @@ public class BasicsOfArray {
         for (int i : age) {
             System.out.print(i + " ");
         }
+
+        sc.close();
     }
 }

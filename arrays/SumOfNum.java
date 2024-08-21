@@ -17,6 +17,6 @@ public class SumOfNum {
 
         System.out.println(sum);
         
-        
+        sc.close();
     }
 }
